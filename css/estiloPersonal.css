@@ -206,3 +206,11 @@ footer h4{
     font-weight: 300;
     text-align: center;
 }
+.contenedor-Contact{
+    text-align: center;
+}.conte-foo{
+    padding-top: 20px;
+}
+.conte-foo > h4{
+    color: #72726D;
+}
